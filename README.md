@@ -1,7 +1,7 @@
 # Presenters:
-##Programming Course - John Chapin: chapin@vt.edu
-##Programming Course - Peter Randall: peter.randall@lcps.org
-##Conceptual Course - Kyle Barriger: kbarriger@castilleja.org
+#### Programming Course - John Chapin: chapin@vt.edu
+#### Programming Course - Peter Randall: peter.randall@lcps.org
+#### Conceptual Course - Kyle Barriger: kbarriger@castilleja.org
 
 # ML-HS-Links
 
