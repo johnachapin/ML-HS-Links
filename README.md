@@ -7,4 +7,7 @@ https://docs.google.com/presentation/d/1XbSUcQd1cK27WNgfTxq609EWyRB2bLmJxbhBSGBt
 https://drive.google.com/open?id=1NVkPodB7reh0Ub3Wim4KKQ4TywoInUDO
 
 ## Algorithmic/Programming Course Resources
-- 
+- Awesome Links - https://drive.google.com/open?id=1zozFDpQNjM--O4YEBqf7e8gnrGsvRAkGiItihSHojpE
+- Perceptron Lesson Files - 
+- Curriculum Map - 
+- Mind Map of the course - 
