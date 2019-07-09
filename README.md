@@ -18,4 +18,4 @@
 - [Curriculum Map](https://drive.google.com/open?id=1K2Esjl30w1zFL98vSS_wmEoyaq_dvGv_)
 - [Mind Map of the course](https://coggle.it/diagram/W1hQ66_5PWOAKb4k/t/machine-learning)
 
--If you want all of our lesson resources, please email John Chapin at chapin@vt.edu
+-If you want all of our lesson resources(or even better have something to share), please email John Chapin at chapin@vt.edu
