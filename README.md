@@ -1,4 +1,4 @@
-#Bitly - http://bit.ly/ML-HS-Resources
+# Bitly - http://bit.ly/ML-HS-Resources
 # Presenters:
 #### Programming Course - John Chapin: chapin@vt.edu
 #### Programming Course - Peter Randall: peter.randall@lcps.org
